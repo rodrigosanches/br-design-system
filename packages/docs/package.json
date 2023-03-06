@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "NODE_OPTIONS=--openssl-legacy-provider start-storybook -p 6006 --host localhost",
     "deploy-storybook": "storybook-to-ghpages",
-    "build": "NODE_OPTIONS=--openssl-legacy-provider build-storybook"
+    "build": "build-storybook",
+    "build-local": "NODE_OPTIONS=--openssl-legacy-provider build-storybook"
   },
   "keywords": [],
   "author": "",
