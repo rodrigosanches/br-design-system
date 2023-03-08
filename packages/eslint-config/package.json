@@ -1,5 +1,6 @@
 {
   "name": "@brsolut-ui/eslint-config",
+  "version": "2.0.0",
   "license": "MIT",
   "private": true,
   "min": "index.js",
