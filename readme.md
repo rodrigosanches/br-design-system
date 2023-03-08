@@ -1,6 +1,6 @@
 processo de excuções
 
-1- npm run chanceset
+1- npm run changeset
 2- npm run version-packages
 
 3- git add .
